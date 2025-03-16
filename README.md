@@ -1,5 +1,5 @@
 # solution_midterm
-# в task1 я реализовал умнный дом исрользуя паттерны: Composite, Decorator, Abstract Factory, Facade, Adapter
+# в task1 я реализовал умнный дом используя паттерны: Composite, Decorator, Abstract Factory, Facade, Adapter
 1. Composite
 
  -> Класс Room управляет несколькими объектами SmartDevice (например, Light, Thermostat).
